@@ -1,0 +1,5 @@
+İlk arguman saniyede alınan frame sayısının kaç tanesinin programa verileceğini ifade eder. Örneğin ilk argüman F_a olsun.
+112x112'lik verilen fotoğraf için programa her seferinde 112x112lik resimden F_a tane verilir. 
+Programa verilen bu 3 boyutlu cismin boyutu 112x112xF_a olur.
+İkinci arguman ise her F_a kadar frame içerisinde kaç tane olaylı frame olacağının sayısını verir. Örneğin F_a kadar frame içerisinde 
+10 tane olaylı frame mevcut olsun. Bu durumda bu F_a kadar olan frame dizisini olaylı frame dizisi olarak nitelendireceğiz.
